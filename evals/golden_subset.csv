@@ -1,0 +1,1001 @@
+facility_id,name,city,state,facilityTypeId,operatorTypeId,claimed_capabilities,score,summary_text,description,unstructured_blob,label_icu,label_nicu,label_dialysis,label_oncology,label_general_surgery,label_trauma_emergency,label_emergency_appendectomy,label_cardiac_care,label_emergency_24x7,label_anesthesiologist,notes_for_labeler
+vf_009377,Sun Hospital and Rehabilitation Center,Badgaon,Rajasthan,hospital,private,['mental_health' 'physiotherapy'],70.0,"Sun Hospital and Rehabilitation Center | Badgaon, Rajasthan | type=hospital | specialties=addictionPsychiatry,physicalMedicineAndRehabilitation,internalMedicine | Rehabilitation Center for Women located in Badgaon, Udaipur, Rajasthan.","Rehabilitation Center for Women located in Badgaon, Udaipur, Rajasthan.","DESCRIPTION:
+Rehabilitation Center for Women located in Badgaon, Udaipur, Rajasthan.
+
+SPECIALTIES:
+- addictionPsychiatry
+- physicalMedicineAndRehabilitation
+- internalMedicine
+
+CAPABILITY CLAIMS:
+- Offers free consultation
+- Located in Badgaon, Udaipur, Rajasthan
+- Female-only rehabilitation program
+- Trusted by over 5,000 families
+- Provides Internet addiction treatment
+- Luxury rehabilitation center for women
+- Offers nutritional counseling
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_002709,"Dentcity, Malda",English Bazar,West Bengal,clinic,private,['dental'],70.0,"Dentcity, Malda | English Bazar, West Bengal | type=clinic | specialties=dentistry,familyMedicine | Dentcity is a complete oral health care clinic which provides all types of modern dental procedures in minimum cost.",Dentcity is a complete oral health care clinic which provides all types of modern dental procedures in minimum cost.,"DESCRIPTION:
+Dentcity is a complete oral health care clinic which provides all types of modern dental procedures in minimum cost.
+
+SPECIALTIES:
+- dentistry
+- familyMedicine
+
+PROCEDURES:
+- Filling (Restoration)
+- Scaling and Polishing
+- Crown and Bridge
+- Extraction
+- Root Canal Treatment (R.C.T.)
+
+CAPABILITY CLAIMS:
+- Dentcity, Malda is an oral health care clinic
+- Provides all types of modern dental procedures
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_008213,Raadhi Dental Center,Tirunelveli,Tamil Nadu,clinic,,['dental'],70.0,"Raadhi Dental Center | Tirunelveli, Tamil Nadu | type=clinic | specialties=dentistry,familyMedicine | Advanced implant care",Advanced implant care,"DESCRIPTION:
+Advanced implant care
+
+SPECIALTIES:
+- dentistry
+- familyMedicine
+
+PROCEDURES:
+- Performs dental implant procedures
+- Performs Emax veneers
+
+CAPABILITY CLAIMS:
+- Offers advanced dental implant care
+- Cosmetic dentistry services including Emax veneers
+- Based in Tirunelveli, Tamil Nadu, India
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_003313,Dr Rajashree Clinical & Pathological Laboratory,Mumbai,Maharashtra,clinic,private,['lab_diagnostics'],70.0,"Dr Rajashree Clinical & Pathological Laboratory | Mumbai, Maharashtra | type=clinic | specialties=pathology,familyMedicine | Pathological Lab",Pathological Lab,"DESCRIPTION:
+Pathological Lab
+
+SPECIALTIES:
+- pathology
+- familyMedicine
+
+CAPABILITY CLAIMS:
+- Page category is Medical Center.
+- Page created on April 12, 2017.
+- Operates a pathological laboratory
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_008473,Saffron Naturopathy Clinic,Mumbai,Maharashtra,clinic,private,[],60.0,"Saffron Naturopathy Clinic | Mumbai, Maharashtra | type=clinic | specialties=familyMedicine | Under the teachings of vaidya Shree karshanbhai Patel, the saffron naturopathic clinic is successful for the last 5 decades in curing more than lakhs of patients with major as well as minor diseases. Also in providing a remedy, as saffron naturopath clinic believes in stopping the disease from entering the human body by providing natural remedies and making nature cure as a lifestyle instead of treating it as a medicine.","Under the teachings of vaidya Shree karshanbhai Patel, the saffron naturopathic clinic is successful for the last 5 decades in curing more than lakhs of patients with major as well as minor diseases. Also in providing a remedy, as saffron naturopath clinic believes in stopping the disease from entering the human body by providing natural remedies and making nature cure as a lifestyle instead of treating it as a medicine.","DESCRIPTION:
+Under the teachings of vaidya Shree karshanbhai Patel, the saffron naturopathic clinic is successful for the last 5 decades in curing more than lakhs of patients with major as well as minor diseases. Also in providing a remedy, as saffron naturopath clinic believes in stopping the disease from entering the human body by providing natural remedies and making nature cure as a lifestyle instead of treating it as a medicine.
+
+SPECIALTIES:
+- familyMedicine
+
+PROCEDURES:
+- Provides naturopathy consultations
+
+CAPABILITY CLAIMS:
+- Part of Saffron 4 Health Pvt. Ltd.
+- Operates under the teachings of Vaidya Shree Karshanbhai Patel
+- Promotes nature cure as a lifestyle rather than just medicine
+- Has treated lakhs of patients over the past five decades
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_001397,Bacchu Medical,Mumbai,Maharashtra,farmacy,private,['pharmacy'],70.0,"Bacchu Medical | Mumbai, Maharashtra | type=farmacy | specialties=internalMedicine | Medical laboratory",Medical laboratory,"DESCRIPTION:
+Medical laboratory
+
+SPECIALTIES:
+- internalMedicine
+
+CAPABILITY CLAIMS:
+- Allopathic pharmacy services
+- Medical laboratory
+- Pharmacy in Govandi West, Mumbai
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_006203,Jones Homeopathy Clinic,Canning Town,West Bengal,clinic,private,[],60.0,"Jones Homeopathy Clinic | Canning Town, West Bengal | type=clinic | specialties=familyMedicine | Jones Homeopathy Clinic",Jones Homeopathy Clinic,"DESCRIPTION:
+Jones Homeopathy Clinic
+
+SPECIALTIES:
+- familyMedicine
+
+CAPABILITY CLAIMS:
+- The Facebook page shows 'Not yet rated' with 3 reviews.
+- Has been in healthcare for 34 years
+- Has a Facebook page on Facebook named 'Jones Homeopathy Clinic'.
+- Has 1.7K likes and 1.7K followers on its Facebook page.
+- Specializes in homeopathy treatment
+- Located in Sonarpur, Kolkata, West Bengal
+- In June 2018, Jones Homeopathy Clinic announced that Dr. Amr Krishna Das would visit the city; registration by phone 973-3567-223.
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_000435,Agrawal Nursing Home - Solapur,Solapur,Solapur,hospital,,[],60.0,"Agrawal Nursing Home - Solapur | Solapur, Solapur | type=hospital | specialties=internalMedicine | Listed in Bajaj Allianz Network Hospitals List in Solapur",Listed in Bajaj Allianz Network Hospitals List in Solapur,"DESCRIPTION:
+Listed in Bajaj Allianz Network Hospitals List in Solapur
+
+SPECIALTIES:
+- internalMedicine
+
+CAPABILITY CLAIMS:
+- Listed as a Bajaj Allianz network hospital in Solapur
+- Bajaj Allianz network hospital in Solapur
+- Cashless hospitalization available for Bajaj Allianz policyholders
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_007697,Nayanam Eye Hospital,Malad West,Mumbai,hospital,private,['general_surgery' 'ophthalmology'],50.0,"Nayanam Eye Hospital | Malad West, Mumbai | type=hospital | specialties=cataractAndAnteriorSegmentSurgery,internalMedicine,ophthalmology | Nayanam Eye Hospital is listed on Practo in association with ophthalmologists in Mumbai.",Nayanam Eye Hospital is listed on Practo in association with ophthalmologists in Mumbai.,"DESCRIPTION:
+Nayanam Eye Hospital is listed on Practo in association with ophthalmologists in Mumbai.
+
+SPECIALTIES:
+- cataractAndAnteriorSegmentSurgery
+- internalMedicine
+- ophthalmology
+
+PROCEDURES:
+- Cataract treatment is provided by ophthalmologists at Nayanam Eye Hospital
+
+CAPABILITY CLAIMS:
+- Cataract services offered via ophthalmologists at the clinic
+- Dr. Roshani Desai is an ophthalmologist at the clinic with 18 years of experience
+- Ophthalmology clinic located in Malad West, Mumbai
+- Dr. Roshani Desai specializes in Cataract
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_006781,Klinik Dentika Dental Clinic,Gurgaon,Haryana,clinic,private,['general_surgery' 'dental'],50.0,"Klinik Dentika Dental Clinic | Gurgaon, Haryana | type=clinic | specialties=familyMedicine,dentalAnesthesia,orthodontics,periodontics,aestheticDentistry,oralAndMaxillofacialSurgery,pediatricDentistry,dentistry,endodontics | Klinik Dentika Dental Clinic is a multi-speciality dental clinic in Gurgaon offering pediatric dentistry, root canal treatment, dental implants, teeth whitening, braces, cosmetic dentistry, and sedation dentistry; the team includes specialists in pediatric dentistry, endodontics, orthodontics, oral and maxillofacial surgery, and periodontics.","Klinik Dentika Dental Clinic is a multi-speciality dental clinic in Gurgaon offering pediatric dentistry, root canal treatment, dental implants, teeth whitening, braces, cosmetic dentistry, and sedation dentistry; the team includes specialists in pediatric dentistry, endodontics, orthodontics, oral and maxillofacial surgery, and periodontics.","DESCRIPTION:
+Klinik Dentika Dental Clinic is a multi-speciality dental clinic in Gurgaon offering pediatric dentistry, root canal treatment, dental implants, teeth whitening, braces, cosmetic dentistry, and sedation dentistry; the team includes specialists in pediatric dentistry, endodontics, orthodontics, oral and maxillofacial surgery, and periodontics.
+
+SPECIALTIES:
+- familyMedicine
+- dentalAnesthesia
+- orthodontics
+- periodontics
+- aestheticDentistry
+- oralAndMaxillofacialSurgery
+- pediatricDentistry
+- dentistry
+- endodontics
+
+PROCEDURES:
+- Braces treatment
+- Crowns and Bridges Fixing
+- Dental implant fixing
+- Dental Implant Fixing
+- Cosmetic Veneers / Bonding
+- Dental consultation
+- Dental scaling and polishing
+- Pulpectomy
+- Dental filling
+- Dental Implants
+- Implant Retained Dentures
+- Pediatric Dentistry
+- Root canal treatment
+- Zirconia crown placement
+- Ceramic Veneers / Crowns
+- Tooth Extraction
+- Orthodontic Treatment
+- Sedation dentistry
+- Cosmetic dentistry
+- Dental Checkup (General)
+- Scaling / Polishing
+- Teeth whitening
+
+CAPABILITY CLAIMS:
+- Imaging service available at the clinic
+- Provides comprehensive dental care for children and adults
+- Team of specialists includes Pediatric Dentist, Endodontist, Orthodontist, Oral and Maxillofacial Surgeon, and Periodontist
+- Located in South City-II, Gurgaon
+- Has 1 pediatric dentist on staff
+- Provides zirconia crowns and dental implants
+- Dental tourism support including travel assistance and insurance assistance
+- Multi-speciality clinic
+- Specializes in endodontics and conservative dentistry
+- Serves patients from abroad, expats, dental tourists, and local area
+- Dr. Vaibhav Juneja is a pediatric dentist with 14 years of experience
+- Multi-speciality dental clinic
+- Provides pediatric dentistry services
+- Provides comprehensive dental care for children and adults under one roof
+- Outpatient dental clinic
+- Offers general dentistry services
+
+EQUIPMENT:
+- Computerized patient details system
+- Protaper Endo
+- Nitrous oxide system
+- Intraoral video camera
+- Semi-automatic dental chairs",,,,,,,,,,,
+vf_002973,Dr Ajay Pal' S Healthy Heart Clinic,Amritsar,Punjab,clinic,private,['cardiac_care'],50.0,"Dr Ajay Pal' S Healthy Heart Clinic | Amritsar, Punjab | type=clinic | specialties=familyMedicine,cardiology | Healthy Heart Clinic has shifted to SIFTI HOSPITAL, Batala road, Amritsar.","Healthy Heart Clinic has shifted to SIFTI HOSPITAL, Batala road, Amritsar.","DESCRIPTION:
+Healthy Heart Clinic has shifted to SIFTI HOSPITAL, Batala road, Amritsar.
+
+SPECIALTIES:
+- familyMedicine
+- cardiology
+
+CAPABILITY CLAIMS:
+- The clinic relocated to SIFTI HOSPITAL in Amritsar
+- The clinic operates as a heart care clinic
+- Dr Ajay Pal Singh holds DM Cardiology
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_006695,Kids Dentistry Clinic,Kharadi,Maharashtra,clinic,private,['general_surgery' 'dental'],50.0,"Kids Dentistry Clinic | Kharadi, Maharashtra | type=clinic | specialties=familyMedicine,orthodontics,oralAndMaxillofacialSurgery,pediatricDentistry,dentistry,endodontics | Pediatric dentistry clinic in Pune led by Dr. Abhay Bhosale.",Pediatric dentistry clinic in Pune led by Dr. Abhay Bhosale.,"DESCRIPTION:
+Pediatric dentistry clinic in Pune led by Dr. Abhay Bhosale.
+
+SPECIALTIES:
+- familyMedicine
+- orthodontics
+- oralAndMaxillofacialSurgery
+- pediatricDentistry
+- dentistry
+- endodontics
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_001963,Centre for Advanced Gastroenterology,Siliguri,West Bengal,clinic,private,['icu' 'obgyn_delivery'],55.0,"Centre for Advanced Gastroenterology | Siliguri, West Bengal | type=clinic | specialties=familyMedicine,gastroenterology,internalMedicine | CAG deliver comprehensive gastroenterologic healthcare at an affordable cost. CAG has OPD, Daycare, 24X7 GI Emergency services, IPD and state-of-art modern ICU Care.","CAG deliver comprehensive gastroenterologic healthcare at an affordable cost. CAG has OPD, Daycare, 24X7 GI Emergency services, IPD and state-of-art modern ICU Care.","DESCRIPTION:
+CAG deliver comprehensive gastroenterologic healthcare at an affordable cost. CAG has OPD, Daycare, 24X7 GI Emergency services, IPD and state-of-art modern ICU Care.
+
+SPECIALTIES:
+- familyMedicine
+- gastroenterology
+- internalMedicine
+
+PROCEDURES:
+- No explicit clinical procedures listed in provided content
+
+CAPABILITY CLAIMS:
+- Specializes in gastroenterology
+- Associated with Heritage hospital (Centre for Advanced Gastroenterology) in Siliguri
+- Provides 24x7 GI emergency services
+- Offers daycare services
+- Operates an outpatient gastroenterology clinic
+- Has Dr. Manish Kumar Mishra, a gastroenterologist with 17 years of experience
+- Offers online appointment booking for Dr. Manish Kumar Mishra
+- Delivers comprehensive gastroenterologic healthcare
+- Provides inpatient department (IPD) services
+- Located in Siliguri, West Bengal, India
+- Provides gastroenterology consultations
+- Has state-of-the-art ICU care
+- Offers outpatient department (OPD) gastroenterology services
+- Offers affordable gastroenterology care
+
+EQUIPMENT:
+- No specific medical equipment mentioned in provided content",,,,,,,,,,,
+vf_005324,"Heaven Diagnostic Centre, Pampore",Pampore,Jammu and Kashmir,clinic,private,"['general_surgery' 'cardiac_care' 'obgyn_delivery' 'ultrasound'
+ 'emergency_24x7' 'lab_diagnostics']",60.0,"Heaven Diagnostic Centre, Pampore | Pampore, Jammu and Kashmir | type=clinic | specialties=radiology,pulmonology,familyMedicine,cardiology,gynecologyAndObstetrics,orthopedicSurgery | We are the best diagnostic centre in saffron town pampore.",We are the best diagnostic centre in saffron town pampore.,"DESCRIPTION:
+We are the best diagnostic centre in saffron town pampore.
+
+SPECIALTIES:
+- radiology
+- pulmonology
+- familyMedicine
+- cardiology
+- gynecologyAndObstetrics
+- orthopedicSurgery
+
+PROCEDURES:
+- Color Doppler is offered
+- Pulmonary Function Tests (PFT) are offered
+- Blood analysis is performed
+- Ultrasonography is offered
+- Obstetric Doppler is performed
+
+CAPABILITY CLAIMS:
+- Open 24 hours
+- Established in 2018
+
+EQUIPMENT:
+- Biochemistry Lab",,,,,,,,,,,
+vf_007351,Malerkotla Hospital,Chananwal,Punjab,hospital,,['general_surgery' 'radiology_xray' 'physiotherapy'],55.0,"Malerkotla Hospital | Chananwal, Punjab | type=hospital | specialties=orthopedicSurgery,radiology,physicalMedicineAndRehabilitation,internalMedicine | Specialist in knee, cervical, spine; X-ray technician","Specialist in knee, cervical, spine; X-ray technician","DESCRIPTION:
+Specialist in knee, cervical, spine; X-ray technician
+
+SPECIALTIES:
+- orthopedicSurgery
+- radiology
+- physicalMedicineAndRehabilitation
+- internalMedicine
+
+PROCEDURES:
+- Provides physiotherapy services including TENS therapy
+- Offers X-ray imaging services
+
+CAPABILITY CLAIMS:
+- Established in 2004
+- X-ray imaging capability on-site
+- Specializes in knee, cervical spine care
+
+EQUIPMENT:
+- X-ray imaging equipment available on-site",,,,,,,,,,,
+vf_002279,"City Hospital and Hijama (Cupping Therapy) Center, Rahata",Rahata,Maharashtra,hospital,,['general_surgery'],50.0,"City Hospital and Hijama (Cupping Therapy) Center, Rahata | Rahata, Maharashtra | type=hospital | specialties=spineNeurosurgery,internalMedicine | Cervical spondylosis and cupping therapy (Hijama)",Cervical spondylosis and cupping therapy (Hijama),"DESCRIPTION:
+Cervical spondylosis and cupping therapy (Hijama)
+
+SPECIALTIES:
+- spineNeurosurgery
+- internalMedicine
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_003392,Dr Rupa Pandra MOMS Clinic,Hyderabad,Telangana,clinic,private,[],80.0,"Dr Rupa Pandra MOMS Clinic | Hyderabad, Telangana | type=clinic | specialties=familyMedicine | Moms clinic has been started for care of women's health.",Moms clinic has been started for care of women's health.,"DESCRIPTION:
+Moms clinic has been started for care of women's health.
+
+SPECIALTIES:
+- familyMedicine
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_006104,Jeevarth Clinic & Medical Center,Allahabad,Uttar Pradesh,hospital,private,[],80.0,"Jeevarth Clinic & Medical Center | Allahabad, Uttar Pradesh | type=hospital | specialties=internalMedicine | We are a premium health clinic & medical centre at Prayagraj. Providing consultations for Internal Me",We are a premium health clinic & medical centre at Prayagraj. Providing consultations for Internal Me,"DESCRIPTION:
+We are a premium health clinic & medical centre at Prayagraj. Providing consultations for Internal Me
+
+SPECIALTIES:
+- internalMedicine
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_003242,"Dr Oshin Ayurvedic Clinic, Vishnu Arcade, Yemalur, Bangalore, India, Karnataka",Bangalore,Karnataka,clinic,private,[],80.0,"Dr Oshin Ayurvedic Clinic, Vishnu Arcade, Yemalur, Bangalore, India, Karnataka | Bangalore, Karnataka | type=clinic | specialties=familyMedicine | Ayurvedic clinic in Vishnu Arcade, Yemalur, Bangalore, Karnataka, India.","Ayurvedic clinic in Vishnu Arcade, Yemalur, Bangalore, Karnataka, India.","DESCRIPTION:
+Ayurvedic clinic in Vishnu Arcade, Yemalur, Bangalore, Karnataka, India.
+
+SPECIALTIES:
+- familyMedicine
+
+CAPABILITY CLAIMS:
+- Ayurvedic clinic based in Bengaluru, Karnataka, India
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_001393,Babrej Health Care Unit,Batala,Gurdaspur,clinic,,[],80.0,"Babrej Health Care Unit | Batala, Gurdaspur | type=clinic | specialties=familyMedicine | Community health center",Community health center,"DESCRIPTION:
+Community health center
+
+SPECIALTIES:
+- familyMedicine
+
+CAPABILITY CLAIMS:
+- Located in Ludhiana, Punjab, India
+- Community health center
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_004110,Dr. Rahul Jadhav's Classical Homeopathic Clinic,Satara,Maharashtra,clinic,,[],80.0,"Dr. Rahul Jadhav's Classical Homeopathic Clinic | Satara, Maharashtra | type=clinic | specialties=familyMedicine | nan",,"SPECIALTIES:
+- familyMedicine
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_009961,Yash Medicine,Gondal,Gujarat,clinic,,[],80.0,"Yash Medicine | Gondal, Gujarat | type=clinic | specialties=familyMedicine,internalMedicine | Medical Center",Medical Center,"DESCRIPTION:
+Medical Center
+
+SPECIALTIES:
+- familyMedicine
+- internalMedicine
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_009751,Varis Clinic,Ahmedabad,Gujarat,clinic,,[],80.0,"Varis Clinic | Ahmedabad, Gujarat | type=clinic | specialties=familyMedicine | Varis Clinic is listed as a clinic in Juhapura, Ahmedabad, Gujarat, with the address Quresh Nagar Society, Ahmedabad-380055, Gujarat.","Varis Clinic is listed as a clinic in Juhapura, Ahmedabad, Gujarat, with the address Quresh Nagar Society, Ahmedabad-380055, Gujarat.","DESCRIPTION:
+Varis Clinic is listed as a clinic in Juhapura, Ahmedabad, Gujarat, with the address Quresh Nagar Society, Ahmedabad-380055, Gujarat.
+
+SPECIALTIES:
+- familyMedicine
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_007135,Layasri Homoeo Clinic,Bangalore,Karnataka,clinic,private,[],80.0,"Layasri Homoeo Clinic | Bangalore, Karnataka | type=clinic | specialties=familyMedicine | nan",,"SPECIALTIES:
+- familyMedicine
+
+PROCEDURES:
+- Located in Bangalore, Karnataka, India
+- Listed as a Medical Center on Facebook
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_007392,Marwad Poly Clinic,Didwana,Rajasthan,clinic,private,['cardiac_care' 'emergency_24x7'],80.0,"Marwad Poly Clinic | Didwana, Rajasthan | type=clinic | specialties=familyMedicine,cardiology | Clinic",Clinic,"DESCRIPTION:
+Clinic
+
+SPECIALTIES:
+- familyMedicine
+- cardiology
+
+CAPABILITY CLAIMS:
+- Patient portal available
+- Emergency information: call 911 for medical emergencies
+- Insurance verification required for acceptance
+- Online scheduling available 24/7
+- Unit of Marwar Hospital and Research Center
+- Cardiology board-certified physicians
+- Telehealth visits available
+- Languages: English
+
+EQUIPMENT:
+- Wheelchair-accessible car park
+- Wheelchair-accessible entrance",,,,,,,,,,,
+vf_000024,32 Smile Stone Dental Clinic and impalnt center,Gandhinagar,Gujarat,dentist,private,['oncology' 'emergency_24x7' 'dental'],75.0,"32 Smile Stone Dental Clinic and impalnt center | Gandhinagar, Gujarat | type=dentist | specialties=surgicalOncology,pediatricDentistry,familyMedicine,generalDentistry,craniofacialAndCleftOralMaxillofacialSurgery,orthodontics,prosthodontics,oncologyAndReconstructiveOralAndMaxillofacialSurgery,oralAndMaxillofacialSurgery,dentoalveolarSurgery,cosmeticDentistry,periodontics,endodontics,dentistry,craniomaxillofacialTraumaSurgery,oralPathology,aestheticDentistry | 32 Smile Stone Dental Clinic and implant center",32 Smile Stone Dental Clinic and implant center,"DESCRIPTION:
+32 Smile Stone Dental Clinic and implant center
+
+SPECIALTIES:
+- surgicalOncology
+- pediatricDentistry
+- familyMedicine
+- generalDentistry
+- craniofacialAndCleftOralMaxillofacialSurgery
+- orthodontics
+- prosthodontics
+- oncologyAndReconstructiveOralAndMaxillofacialSurgery
+- oralAndMaxillofacialSurgery
+- dentoalveolarSurgery
+- cosmeticDentistry
+- periodontics
+- endodontics
+- dentistry
+- craniomaxillofacialTraumaSurgery
+- oralPathology
+- aestheticDentistry
+
+PROCEDURES:
+- Performs third molar removal with minor surgery
+- Provides Tooth Coloured Filling
+- Root Canal Treatment
+- Treats cancerous lesions in the oral cavity
+- Provides pediatric dentistry
+- Offers veneers for smile enhancement
+- Silver Amalgam Restoration
+- Offers Dental Jewellery
+- Treats pyorrhea
+- Pediatric dentistry
+- Dental Jewellery
+- Third molar removal with minor surgery
+- Cancerous lesion in oral cavity
+- Tooth whitening (bleaching)
+- Offers Root Canal Treatment
+- Provides Silver Amalgam Restoration
+- Treatment of jaw fracture
+- Provides Removable Prosthesis
+- Treats jaw fractures
+- Ultrasonic scaling
+- Treatment of pyorrhea
+- Dental Implant
+- Fixed Prosthesis
+- Maxillofacial surgery
+- Removable Prosthesis
+- Provides Fixed Prosthesis
+- Provides Extraction
+- Treatment of tumors in oral cavity
+- Orthodontic Treatment
+- Offers Dental Implant
+- Provides ultrasonic scaling
+- Offers orthodontic treatment
+- Tooth Coloured Filling
+- Performs maxillofacial surgery
+- Extraction
+- Offers tooth whitening (bleaching)
+- Treats tumors in the oral cavity
+
+CAPABILITY CLAIMS:
+- Dental clinic and implant center located in Gandhinagar, Gujarat
+- Operates a dental clinic and implant center
+- Dr. Chirag Pandya – Orthodontist on staff
+- Provides 24/7 emergency dental care
+- Emergency dental services available around the clock
+- Dental implant center with implant treatments offered
+- Offers 24/7 emergency dental care
+- Staffed by multiple dentists including Dr Paresh Chaudhari, Dr Chirag Pandya, Dr Ankit Patel, Dr Mitesh Patel
+- Comprehensive dental, maxillofacial, gum and aesthetic treatments under one roof
+- Dr. Ankit Patel – Oral Pathologist on staff
+- Dr. Mitesh Patel – Oral and Maxillofacial Surgeon; Head and Neck Cancer Surgeon on staff
+- Dr. Paresh Chaudhari – Dental Surgeon on staff
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_002325,Clinic India,Khidirpur,West Bengal,clinic,private,['cardiac_care' 'lab_diagnostics'],75.0,"Clinic India | Khidirpur, West Bengal | type=clinic | specialties=familyMedicine,cardiology | Diagnostic clinic providing accurate tests, home collection services, and specialized ECG testing.","Diagnostic clinic providing accurate tests, home collection services, and specialized ECG testing.","DESCRIPTION:
+Diagnostic clinic providing accurate tests, home collection services, and specialized ECG testing.
+
+SPECIALTIES:
+- familyMedicine
+- cardiology
+
+PROCEDURES:
+- Home collection of samples for diagnostic testing
+- Electrocardiogram (ECG) testing
+
+CAPABILITY CLAIMS:
+- Based in Kolkata, West Bengal
+- Outpatient diagnostic clinic and polyclinic services
+- Home collection of samples seven days a week
+- Provides diagnostic testing and a wide range of medical tests
+- Dedicated team of doctors available every day
+- Offers online booking
+
+EQUIPMENT:
+- Digital lab for comprehensive pathological tests",,,,,,,,,,,
+vf_001961,Central Pune Doctor House,Pune,Maharashtra,clinic,private,['cardiac_care' 'obgyn_delivery'],75.0,"Central Pune Doctor House | Pune, Maharashtra | type=clinic | specialties=pediatrics,cardiacAndPulmonaryRehabilitation,neurology,spineNeurosurgery,pulmonology,pathology,cardiology,otolaryngology,familyMedicine,internalMedicine,orthopedicSurgery,physicalMedicineAndRehabilitation,neurosurgery,pediatricEndocrinology,endocrinologyAndDiabetesAndMetabolism | Central Pune Doctor House, as the name suggests, is located centrally in the heart of Pune, at Bund Garden Road, Pune-411001. It is a patient centric state of the art medical facility that delivers outstanding services through experienced healthcare providers. Our highly skilled and compassionate specialists have a depth and breadth of experience that ensures world class healthcare delivery. We strongly believe that infrastructure is a key pillar to improve the standards of care and wellbeing of our patients apart from an expert team of doctors and paramedics. We intend to provide a one stop solution for health and wellbeing of our patients as nothing is more important than health.","Central Pune Doctor House, as the name suggests, is located centrally in the heart of Pune, at Bund Garden Road, Pune-411001. It is a patient centric state of the art medical facility that delivers outstanding services through experienced healthcare providers. Our highly skilled and compassionate specialists have a depth and breadth of experience that ensures world class healthcare delivery. We strongly believe that infrastructure is a key pillar to improve the standards of care and wellbeing of our patients apart from an expert team of doctors and paramedics. We intend to provide a one stop solution for health and wellbeing of our patients as nothing is more important than health.","DESCRIPTION:
+Central Pune Doctor House, as the name suggests, is located centrally in the heart of Pune, at Bund Garden Road, Pune-411001. It is a patient centric state of the art medical facility that delivers outstanding services through experienced healthcare providers. Our highly skilled and compassionate specialists have a depth and breadth of experience that ensures world class healthcare delivery. We strongly believe that infrastructure is a key pillar to improve the standards of care and wellbeing of our patients apart from an expert team of doctors and paramedics. We intend to provide a one stop solution for health and wellbeing of our patients as nothing is more important than health.
+
+SPECIALTIES:
+- pediatrics
+- cardiacAndPulmonaryRehabilitation
+- neurology
+- spineNeurosurgery
+- pulmonology
+- pathology
+- cardiology
+- otolaryngology
+- familyMedicine
+- internalMedicine
+- orthopedicSurgery
+- physicalMedicineAndRehabilitation
+- neurosurgery
+- pediatricEndocrinology
+- endocrinologyAndDiabetesAndMetabolism
+
+PROCEDURES:
+- Electrocardiogram (ECG)
+- Fibroscan
+- Cardio Pulmonary Exercise Test (CPET)
+- Echocardiography (ECHO)
+- Holter ECG
+- Pathology
+- Ambulatory Blood Pressure Monitoring (ABPM)
+- Sleep Apnea Test
+
+CAPABILITY CLAIMS:
+- In-house Pathology and In-house Pharmacy services
+- Specialties offered include Cardiology, Cardiac Rehabilitation, Pediatrics, Pediatric Endocrinology, Orthopedics, Neurology, Neurosurgery, Spine Surgery, Pulmonology, ENT, Physiotherapy and Chiropraxy, Diet & Nutrition, Pathology
+- Emergency care is available with schedule: Monday-Friday full day, Saturday full day, Sunday emergency
+
+EQUIPMENT:
+- Fibroscan device
+- ECG machine
+- Pathology laboratory equipment
+- Ambulatory blood pressure monitoring device
+- Holter monitor
+- Sleep apnea testing equipment
+- Cardio Pulmonary Exercise Test (CPET) equipment
+- Echocardiography (ECHO) equipment",,,,,,,,,,,
+vf_001324,AV Children Dental Clinic,Pune,Maharashtra,clinic,private,['trauma_emergency' 'dental'],75.0,"AV Children Dental Clinic | Pune, Maharashtra | type=clinic | specialties=pediatrics,pediatricDentistry,familyMedicine,dentistry | AV Children Dental Clinic is a Dentistry Clinic in Aundh, Pune. The clinic is visited by pediatric dentist Dr. Ashvini Phadnis and Dr. Chandrashekhar Vasant Phadnis.","AV Children Dental Clinic is a Dentistry Clinic in Aundh, Pune. The clinic is visited by pediatric dentist Dr. Ashvini Phadnis and Dr. Chandrashekhar Vasant Phadnis.","DESCRIPTION:
+AV Children Dental Clinic is a Dentistry Clinic in Aundh, Pune. The clinic is visited by pediatric dentist Dr. Ashvini Phadnis and Dr. Chandrashekhar Vasant Phadnis.
+
+SPECIALTIES:
+- pediatrics
+- pediatricDentistry
+- familyMedicine
+- dentistry
+
+PROCEDURES:
+- Dental prophylaxis
+- Braces adjustment
+- Composite bonding
+- Traumatic dental injuries treatment
+- Invisalign-based teeth straightening
+- Space maintainers
+- Tooth extraction
+- Implant-retained dentures
+- Mouth guard provision
+- Dental restoration
+- Scaling and polishing
+- Ceramic veneers or crowns
+- Pulpectomy
+- Crowns and bridges fixing
+- Dental sealant
+
+CAPABILITY CLAIMS:
+- Dr. Ashvini Phadnis is Pediatric Dentist (BDS, MDS - Paedodontics and Preventive Dentistry)
+- Specializes in pediatric dentistry and preventive dentistry
+- Located in Pune, in the Aundh area near Dmart and Parihar Chowk
+- Located in Pune, India
+- Has 15 years in healthcare
+- Specializes in pediatric dentistry
+- Identified as AV Children And Multispeciality Clinic on JustDial listing
+- Has 1 doctor on staff at AV Children Dental Clinic
+- Has 2 doctors on staff: Dr. Ashvini Phadnis (Pediatric Dentist) and Dr. Chandrashekhar Vasant Phadnis (Pediatrician)
+- Dentistry clinic offering pediatric dentistry and general dentistry
+- Located in Aundh, Pune
+
+EQUIPMENT:
+- Dental chair with attached dental unit and overhead operating light
+- Dental imaging service available at the clinic
+- Wall-mounted air conditioning unit (Voltas)",,,,,,,,,,,
+vf_006719,"Kindcare Clinics, Mehdipatnam",Hyderabad,Telangana,clinic,private,['cardiac_care' 'physiotherapy'],75.0,"Kindcare Clinics, Mehdipatnam | Hyderabad, Telangana | type=clinic | specialties=infectiousDiseases,neurology,pulmonology,familyMedicine,cardiology,gastroenterology,internalMedicine,endocrinologyAndDiabetesAndMetabolism | A centre for comprehensive and holistic care of all your health problems. Internal Medicine and Diabetology Clinic.",A centre for comprehensive and holistic care of all your health problems. Internal Medicine and Diabetology Clinic.,"DESCRIPTION:
+A centre for comprehensive and holistic care of all your health problems. Internal Medicine and Diabetology Clinic.
+
+SPECIALTIES:
+- infectiousDiseases
+- neurology
+- pulmonology
+- familyMedicine
+- cardiology
+- gastroenterology
+- internalMedicine
+- endocrinologyAndDiabetesAndMetabolism
+
+PROCEDURES:
+- Provides physiotherapy services through a staff physiotherapist
+
+CAPABILITY CLAIMS:
+- Specializes in personalized healthcare
+- Led by a consultant physician and diabetologist
+- Dr. Mohammed Ahmed Hussain earned MD in Internal Medicine from Manipal University
+- Dr. Mohammed Ahmed Hussain has 7 years of experience in internal medicine
+- Has a physiotherapist on staff
+- Offers online and in-person consultation
+- Located in Mehdipatnam, Hyderabad
+- KindCare Clinics features Dr. Mohammed Ahmed Hussain, Specialist in Internal Medicine
+- Dr. Mohammed Ahmed Hussain earned MBBS from Gandhi Medical College, Hyderabad
+
+EQUIPMENT:
+- Wheelchair-accessible washroom
+- Wheelchair seating in the clinic
+- Wheelchair-accessible entrance and exit",,,,,,,,,,,
+vf_001086,Arunachalam Hospital,Pulimpatti,Tamil Nadu,hospital,,['trauma_emergency' 'emergency_24x7'],80.0,"Arunachalam Hospital | Pulimpatti, Tamil Nadu | type=hospital | specialties=emergencyMedicine,internalMedicine | Arunachalam Hospital is a hospital located on Sathyamangalam Main Road, Pulimpatti, Erode, Tamil Nadu 638459, India. Treatment includes viral fever. Facilities include wheelchair accessible entrance and exit and wheelchair accessible car parking. Government schemes include Ayushman Card.","Arunachalam Hospital is a hospital located on Sathyamangalam Main Road, Pulimpatti, Erode, Tamil Nadu 638459, India. Treatment includes viral fever. Facilities include wheelchair accessible entrance and exit and wheelchair accessible car parking. Government schemes include Ayushman Card.","DESCRIPTION:
+Arunachalam Hospital is a hospital located on Sathyamangalam Main Road, Pulimpatti, Erode, Tamil Nadu 638459, India. Treatment includes viral fever. Facilities include wheelchair accessible entrance and exit and wheelchair accessible car parking. Government schemes include Ayushman Card.
+
+SPECIALTIES:
+- emergencyMedicine
+- internalMedicine
+
+PROCEDURES:
+- Treats viral fever
+
+CAPABILITY CLAIMS:
+- Offers 24/7 emergency care
+- Has an on-site emergency department (Emergency Room)
+- Accepts Ayushman Card (PM-JAY)
+
+EQUIPMENT:
+- Wheelchair accessible entrance and exit
+- Wheelchair accessible in car parking",,,,,,,,,,,
+vf_001871,Cardio Diabetes Clinic,Ludhiana,Punjab,clinic,private,['cardiac_care' 'emergency_24x7'],80.0,"Cardio Diabetes Clinic | Ludhiana, Punjab | type=clinic | specialties=familyMedicine,cardiology,endocrinologyAndDiabetesAndMetabolism | Providing exceptional cardiac care to the community",Providing exceptional cardiac care to the community,"DESCRIPTION:
+Providing exceptional cardiac care to the community
+
+SPECIALTIES:
+- familyMedicine
+- cardiology
+- endocrinologyAndDiabetesAndMetabolism
+
+CAPABILITY CLAIMS:
+- Dr Manav Wadhera is a clinical cardiologist
+- Offers online forms for patient paperwork
+- Emergency information: For medical emergencies, call 911 immediately
+- Provides patient portal to view test results and medical records
+- Appointment planning: appointment required and appointments recommended
+- Provides medicines on-site
+- Cardio Diabetes Clinic is listed among diabetologist doctors in Ludhiana Pb
+- Treats thyroid disorder
+- Dr Manav Wadhera is affiliated as Associate Consultant Non-Invasive Cardiology at Fortis Hospital, Mall Road Ludhiana
+- Dr. Manav Wadhera is the doctor at Cardio Diabetes Clinic in Ludhiana Pb
+- Located in Ludhiana, Punjab
+- Board certified in Cardiology
+- Treats diabetes mellitus
+- Offers telehealth visits (virtual consultations available)
+- Treats heart disease
+- Treats hypertension
+- Offers online scheduling 24/7
+- Office hours: Monday-Saturday 5-7 pm; Sunday closed
+
+EQUIPMENT:
+- Electrocardiogram (ECG) device available
+- Wheelchair-accessible toilet
+- Restroom
+- Blood sample collection facility
+- On-site blood glucose testing facility",,,,,,,,,,,
+vf_009982,Younique Skin Hair Laser & Cosmetic Clinic,Surat,Gujarat,clinic,private,[],85.0,"Younique Skin Hair Laser & Cosmetic Clinic | Surat, Gujarat | type=clinic | specialties=familyMedicine,dermatology,cosmeticDermatology | Dermatologists; Skin Care Clinics",Dermatologists; Skin Care Clinics,"DESCRIPTION:
+Dermatologists; Skin Care Clinics
+
+SPECIALTIES:
+- familyMedicine
+- dermatology
+- cosmeticDermatology
+
+PROCEDURES:
+- Post-acne scar treatment
+- HydraFacial
+- Laser treatment
+
+CAPABILITY CLAIMS:
+- Dermatology and cosmetic clinic
+- Outpatient services
+- Dermatologist Dr. Dipali Patoliya associated with the clinic
+
+EQUIPMENT:
+- On-site aesthetic laser device
+- Treatment chair",,,,,,,,,,,
+vf_000833,"APEX Diagnostic Centre - Math Choumuhani, Ground Floor of SBI, Agartala, Tripura, India",Agartala,Tripura,clinic,,['ultrasound' 'lab_diagnostics'],95.0,"APEX Diagnostic Centre - Math Choumuhani, Ground Floor of SBI, Agartala, Tripura, India | Agartala, Tripura | type=clinic | specialties=pathology,familyMedicine,radiology | Diagnostic centre per excellence at Agartala. Eminent radiologist, pathologist & biochemist under one roof. Ultrasonography, USG guided interventional procedures, pathological tests are done by experts in their fields.","Diagnostic centre per excellence at Agartala. Eminent radiologist, pathologist & biochemist under one roof. Ultrasonography, USG guided interventional procedures, pathological tests are done by experts in their fields.","DESCRIPTION:
+Diagnostic centre per excellence at Agartala. Eminent radiologist, pathologist & biochemist under one roof. Ultrasonography, USG guided interventional procedures, pathological tests are done by experts in their fields.
+
+SPECIALTIES:
+- pathology
+- familyMedicine
+- radiology
+
+PROCEDURES:
+- Offers diagnostic imaging scans
+- Provides diagnostic laboratory testing services
+
+CAPABILITY CLAIMS:
+- Located in Agartala, Tripura
+- Provides diagnostic laboratory testing and imaging services
+
+EQUIPMENT:
+- Microscope used for laboratory testing",,,,,,,,,,,
+vf_005805,Isha Hearing Clinic,Bengaluru,Karnataka,clinic,private,[],85.0,"Isha Hearing Clinic | Bengaluru, Karnataka | type=clinic | specialties=pathology,familyMedicine,otolaryngology | Established in the year 2021 at Bengaluru, Karnataka we ""Isha Hearing Clinic"" are as Sole Proprietorship based firm ,engaged as the foremost Retailer Of Hearing Aid, BTE Hearing Aid and many more.","Established in the year 2021 at Bengaluru, Karnataka we ""Isha Hearing Clinic"" are as Sole Proprietorship based firm ,engaged as the foremost Retailer Of Hearing Aid, BTE Hearing Aid and many more.","DESCRIPTION:
+Established in the year 2021 at Bengaluru, Karnataka we ""Isha Hearing Clinic"" are as Sole Proprietorship based firm ,engaged as the foremost Retailer Of Hearing Aid, BTE Hearing Aid and many more.
+
+SPECIALTIES:
+- pathology
+- familyMedicine
+- otolaryngology
+
+PROCEDURES:
+- Hearing testing (audiometry)
+- Otoacoustic emissions testing
+- Impedance testing (tympanometry)
+
+CAPABILITY CLAIMS:
+- Outpatient hearing care clinic
+- Offers products from multiple brands including Unitron, Starkey, Phonak, Siemens and other major hearing-aid brands
+- Established in 2021 as a sole proprietorship
+- Retailer of hearing aids in Bengaluru, Karnataka
+- Established in 2021
+- Offers hearing aids from Oticon, Phonak, and Siemens
+
+EQUIPMENT:
+- OMNIA 460 Minirie
+- Starkey Livio 1000 Bte 13
+- Wheelchair-accessible elevator
+- Insera B-312 NW Omni
+- Bluetooth Hearing Aids
+- Hearing aids including Unitron T Moxifit 600
+- Naida L50 SP
+- Hearing Aid 48 Channel
+- Evovle AI 1000 RIC312
+- P30 PR
+- Unitron Quantum 12 S Bte Hearing Aids
+- Pure C&G 1IX / T1IX
+- Starkey Livio 1000 Bte R
+- Neera 2 BTE
+- Audeo P 312
+- Phonak Audeo L-30-R
+- NEXIA 4 CIC
+- Naida L-30 UP
+- Naida L-50-UP
+- ENZO Q 598 SP BTE",,,,,,,,,,,
+vf_005461,"Holy Promise Homeopathic Clinic Near Kithor Stand, Kila Parikshit Garh, Meerut, Uttar Pradesh, India",Meerut,Uttar Pradesh,clinic,private,[],85.0,"Holy Promise Homeopathic Clinic Near Kithor Stand, Kila Parikshit Garh, Meerut, Uttar Pradesh, India | Meerut, Uttar Pradesh | type=clinic | specialties=pediatrics,neurology,familyMedicine,cardiology,gastroenterology,psychiatry | Holy Promise Homeopathic Clinic offers personalized homeopathic care provided by expert homeopathic consultants.",Holy Promise Homeopathic Clinic offers personalized homeopathic care provided by expert homeopathic consultants.,"DESCRIPTION:
+Holy Promise Homeopathic Clinic offers personalized homeopathic care provided by expert homeopathic consultants.
+
+SPECIALTIES:
+- pediatrics
+- neurology
+- familyMedicine
+- cardiology
+- gastroenterology
+- psychiatry
+
+PROCEDURES:
+- Provides personalized homeopathy care assistance by expert practitioners
+- Offers homeopathic consultations and treatment
+- Provides personalized homeopathy treatment and consultations
+
+CAPABILITY CLAIMS:
+- Operates as a homeopathic clinic
+- Operates a homeopathic clinic
+- Is a homeopathic clinic
+- Has wheelchair-accessible car parking
+- Has wheelchair-accessible entrance and exit
+- Provides personalized homeopathy care by experts
+- Provides personalized homeopathy care by expert practitioners
+
+EQUIPMENT:
+- Image shows pellets associated with homeopathic remedies",,,,,,,,,,,
+vf_003363,"Dr Rekha Chandak's - Ayu Raksha Clinic, Kalyan",Kalyan,Maharashtra,clinic,,['obgyn_delivery'],90.0,"Dr Rekha Chandak's - Ayu Raksha Clinic, Kalyan | Kalyan, Maharashtra | type=clinic | specialties=familyMedicine | Family Physician, Gyneac and Pregnancy (ANC) Care, Child Care & Vaccination Center, Ayurvedic Consultancy, Blood Investigations.","Family Physician, Gyneac and Pregnancy (ANC) Care, Child Care & Vaccination Center, Ayurvedic Consultancy, Blood Investigations.","DESCRIPTION:
+Family Physician, Gyneac and Pregnancy (ANC) Care, Child Care & Vaccination Center, Ayurvedic Consultancy, Blood Investigations.
+
+SPECIALTIES:
+- familyMedicine
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_004032,Dr. Pathak s Superspecialty Dental & Implant Clinic,Kalyan,Maharashtra,clinic,private,['dental'],90.0,"Dr. Pathak s Superspecialty Dental & Implant Clinic | Kalyan, Maharashtra | type=clinic | specialties=dentistry,familyMedicine | Superspecialty Dental & Implant Clinic",Superspecialty Dental & Implant Clinic,"DESCRIPTION:
+Superspecialty Dental & Implant Clinic
+
+SPECIALTIES:
+- dentistry
+- familyMedicine
+
+CAPABILITY CLAIMS:
+- Superspecialty dental clinic
+- Dental implant clinic
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_000162,Aashirwad Dental Implant and Cosmetic Rehabilitation Center,Rajkot,Gujarat,dentist,private,['dental' 'physiotherapy'],90.0,"Aashirwad Dental Implant and Cosmetic Rehabilitation Center | Rajkot, Gujarat | type=dentist | specialties=familyMedicine,dentistry,orthodontics | Aashirwad Dental Implant & Cosmetic Rehabilitation Center is in Rajkot, India.","Aashirwad Dental Implant & Cosmetic Rehabilitation Center is in Rajkot, India.","DESCRIPTION:
+Aashirwad Dental Implant & Cosmetic Rehabilitation Center is in Rajkot, India.
+
+SPECIALTIES:
+- familyMedicine
+- dentistry
+- orthodontics
+
+PROCEDURES:
+- Provides orthodontic treatment including metal braces, ceramic braces, and clear aligners.
+
+CAPABILITY CLAIMS:
+- Orthodontic care specializing in braces and aligners.
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_007330,Mahavir International Diagnostic Cenre,Nagari,Rajasthan,clinic,,['lab_diagnostics'],95.0,"Mahavir International Diagnostic Cenre | Nagari, Rajasthan | type=clinic | specialties=pathology,familyMedicine,internalMedicine | Pathology & Diagnostic Lab",Pathology & Diagnostic Lab,"DESCRIPTION:
+Pathology & Diagnostic Lab
+
+SPECIALTIES:
+- pathology
+- familyMedicine
+- internalMedicine
+
+PROCEDURES:
+- Provides laboratory testing services
+- Performs pathology tests and diagnostic laboratory procedures
+
+CAPABILITY CLAIMS:
+- Diagnostic laboratory services in Nagaur, Rajasthan
+- Provides pathology and diagnostic laboratory services
+- Located in Nagaur, Rajasthan
+
+EQUIPMENT:
+- Wheelchair-accessible washroom
+- Wheelchair-accessible car parking",,,,,,,,,,,
+vf_004257,Dr. Sandip Ganguly - Medical Oncologist,Kolkata,West Bengal,doctor,private,['oncology'],90.0,"Dr. Sandip Ganguly - Medical Oncologist | Kolkata, West Bengal | type=doctor | specialties=medicalOncology | Meet Dr. Sandip Ganguly, dedicated to cancer care, screening, and prevention in Kolkata, Dr. Ganguly brings compassion and expertise to every patient's journey.","Meet Dr. Sandip Ganguly, dedicated to cancer care, screening, and prevention in Kolkata, Dr. Ganguly brings compassion and expertise to every patient's journey.","DESCRIPTION:
+Meet Dr. Sandip Ganguly, dedicated to cancer care, screening, and prevention in Kolkata, Dr. Ganguly brings compassion and expertise to every patient's journey.
+
+SPECIALTIES:
+- medicalOncology
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_001906,Care N Cure Dental & Cancer Clinic,Coimbatore,Tamil Nadu,clinic,,['oncology' 'dental'],90.0,"Care N Cure Dental & Cancer Clinic | Coimbatore, Tamil Nadu | type=clinic | specialties=dentistry,medicalOncology,familyMedicine | nan",,"SPECIALTIES:
+- dentistry
+- medicalOncology
+- familyMedicine
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_000859,Apollo Cancer Centres Visakhapatnam,Visakhapatnam,andhra Pradesh,hospital,private,['oncology'],95.0,"Apollo Cancer Centres Visakhapatnam | Visakhapatnam, andhra Pradesh | type=hospital | specialties=breastImaging,gynecologicalOncology,radiology,internalMedicine,medicalOncology,hematology | Centre of excellence in cancer care.",Centre of excellence in cancer care.,"DESCRIPTION:
+Centre of excellence in cancer care.
+
+SPECIALTIES:
+- breastImaging
+- gynecologicalOncology
+- radiology
+- internalMedicine
+- medicalOncology
+- hematology
+
+PROCEDURES:
+- Hematopoietic stem cell transplantation (HSCT) undertaken for high-risk thalassemia at Apollo Cancer Centres, Visakhapatnam, described as the first successful case in Andhra Pradesh
+
+CAPABILITY CLAIMS:
+- Offers hematopoietic stem cell transplantation (HSCT) for thalassemia
+- Provides hematology-oncology services
+- Has a lead consultant in medical and hemat-oncology on staff
+- Inaugurated by the Honourable Chief Minister of Andhra Pradesh
+- Located in Visakhapatnam
+
+EQUIPMENT:
+- Apollo Cancer Center Visakhapatnam is equipped with state-of-the-art technology",,,,,,,,,,,
+vf_006640,Kharel Hospital,Gandevi,Gujarat,hospital,,['oncology' 'emergency_24x7' 'lab_diagnostics'],100.0,"Kharel Hospital | Gandevi, Gujarat | type=hospital | specialties=breastImaging,radiology,anatomicPathology,internalMedicine,clinicalPathology,medicalOncology | Nirali Memorial Medical Trust augmented the medical facilities at Kharel Hospital in Gujarat by activating the Nicchabhai Ratnaji Naik Wing in the facility.",Nirali Memorial Medical Trust augmented the medical facilities at Kharel Hospital in Gujarat by activating the Nicchabhai Ratnaji Naik Wing in the facility.,"DESCRIPTION:
+Nirali Memorial Medical Trust augmented the medical facilities at Kharel Hospital in Gujarat by activating the Nicchabhai Ratnaji Naik Wing in the facility.
+
+SPECIALTIES:
+- breastImaging
+- radiology
+- anatomicPathology
+- internalMedicine
+- clinicalPathology
+- medicalOncology
+
+CAPABILITY CLAIMS:
+- Open 24/7
+
+EQUIPMENT:
+- Nicchabhai Ratnaji Naik Wing is activated at Kharel Hospital in Gujarat by Nirali Memorial Medical Trust (announced 11 July 2018).",,,,,,,,,,,
+vf_009582,"The Roy's Homoeopathia - House No.63/34/1 Shahid Mangal Pandey Rd, Barrackpore, WB 700120",Barrackpore,West Bengal,clinic,private,['oncology' 'mental_health'],90.0,"The Roy's Homoeopathia - House No.63/34/1 Shahid Mangal Pandey Rd, Barrackpore, WB 700120 | Barrackpore, West Bengal | type=clinic | specialties=psychiatry,familyMedicine,infectiousDiseases,medicalOncology | The Roy's Homoeopathia is a homeopathy clinic associated with Dr. Chinmoy Roy, located at House No.63/34/1 Shahid Mangal Pandey Rd, Barrackpore, West Bengal, India. Contact email theroyshomoeopathia@gmail.com and phone +919333511947.","The Roy's Homoeopathia is a homeopathy clinic associated with Dr. Chinmoy Roy, located at House No.63/34/1 Shahid Mangal Pandey Rd, Barrackpore, West Bengal, India. Contact email theroyshomoeopathia@gmail.com and phone +919333511947.","DESCRIPTION:
+The Roy's Homoeopathia is a homeopathy clinic associated with Dr. Chinmoy Roy, located at House No.63/34/1 Shahid Mangal Pandey Rd, Barrackpore, West Bengal, India. Contact email theroyshomoeopathia@gmail.com and phone +919333511947.
+
+SPECIALTIES:
+- psychiatry
+- familyMedicine
+- infectiousDiseases
+- medicalOncology
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_005570,I Care Diagnostic and Dialysis Center,Mumbai,Maharashtra,clinic,private,['dialysis' 'cardiac_care' 'radiology_xray' 'lab_diagnostics'],81.67,"I Care Diagnostic and Dialysis Center | Mumbai, Maharashtra | type=clinic | specialties=radiology,familyMedicine,nephrology,cardiology,pathology | I Care Diagnostic and Dialysis Center; Your Trusted Partner in Health and Wellness",I Care Diagnostic and Dialysis Center; Your Trusted Partner in Health and Wellness,"DESCRIPTION:
+I Care Diagnostic and Dialysis Center; Your Trusted Partner in Health and Wellness
+
+SPECIALTIES:
+- radiology
+- familyMedicine
+- nephrology
+- cardiology
+- pathology
+
+PROCEDURES:
+- Instant ECG test and reporting by a cardiologist-certified clinician with results delivered within 10 minutes
+- 2D echocardiography (2D-Echo) service
+- Provides dialysis services
+- Comprehensive Health Care Plan (106 parameters) and Complete Health Care Plan (96 parameters)
+- Performs electrocardiogram (ECG)
+- Offers dialysis services (infection-free dialysis)
+- Pre-operative evaluation package including CBC, creatinine, bilirubin, urine routine, blood sugar, HbA1c, PT/INR, blood group, chest X-ray (PA), and ECG
+- Provides digital X-ray imaging
+- Conducts blood sugar testing
+- Provides ultrasound (sonography) services
+- Home-visit diagnostic service for routine check-ups, blood sugar and blood pressure monitoring, with female doctor available
+- Performs ESR testing
+- Performs 2D echocardiography
+- Digital X-ray imaging with film reports delivered within 30 minutes
+
+CAPABILITY CLAIMS:
+- Offers home-visit diagnostic services
+- Provides outpatient services
+- Provides dialysis services
+- Charitable OPD services
+- Dr. M. Arif is the consultant physician at the center
+- Private center care options with charitable rate
+- Offers comprehensive health care plans
+- Offers charitable OPD
+- Outpatient diagnostic and dialysis center
+- Has Dr Shaikh M. Arif as a consulting physician
+- Dialysis center located in Khar West, Mumbai
+
+EQUIPMENT:
+- Electrocardiography (ECG) equipment with cardiologist oversight
+- Dialysis equipment for dialysis center
+- Digital X-ray system with on-site film reporting
+- Digital X-Ray imaging equipment
+- 2D echocardiography (2D-Echo) equipment",,,,,,,,,,,
+vf_001241,Asvins Specialty Hospital,Hyderabad,Telangana,hospital,private,['oncology'],90.0,"Asvins Specialty Hospital | Hyderabad, Telangana | type=hospital | specialties=internalMedicine | Best Cancer Hospital in Hyderabad. Asvins Specialty Hospitals providing comprehensive care for oncology.",Best Cancer Hospital in Hyderabad. Asvins Specialty Hospitals providing comprehensive care for oncology.,"DESCRIPTION:
+Best Cancer Hospital in Hyderabad. Asvins Specialty Hospitals providing comprehensive care for oncology.
+
+SPECIALTIES:
+- internalMedicine
+
+EQUIPMENT:
+(none listed)",,,,,,,,,,,
+vf_005780,"Intima Heart & Critical Care Lokmat Square, Nagpur",Nagpur,Maharashtra,hospital,private,['cardiac_care' 'lab_diagnostics'],100.0,"Intima Heart & Critical Care Lokmat Square, Nagpur | Nagpur, Maharashtra | type=hospital | specialties=criticalCareMedicine,interventionalCardiology,cardiacSurgery,cardiology,internalMedicine,interventionalNeurology,gynecology,interventionalRadiology | Intima Heart Care provides a comprehensive range of diagnostics services and treatment modalities for cardiovascular ailments. The hospital has 24x7 active cath lab AZURION and advanced imaging with Echo and HD IVUS.",Intima Heart Care provides a comprehensive range of diagnostics services and treatment modalities for cardiovascular ailments. The hospital has 24x7 active cath lab AZURION and advanced imaging with Echo and HD IVUS.,"DESCRIPTION:
+Intima Heart Care provides a comprehensive range of diagnostics services and treatment modalities for cardiovascular ailments. The hospital has 24x7 active cath lab AZURION and advanced imaging with Echo and HD IVUS.
+
+SPECIALTIES:
+- criticalCareMedicine
+- interventionalCardiology
+- cardiacSurgery
+- cardiology
+- internalMedicine
+- interventionalNeurology
+- gynecology
+- interventionalRadiology
+
+PROCEDURES:
+- Perform echocardiography imaging using an Echo Machine
+- Perform intravascular imaging using HD IVUS
+
+CAPABILITY CLAIMS:
+- Intervention Radiology
+- Popular hospital for cardiac problems in Nagpur
+- Dedicated cardiac and critical care ICCU
+- Echocardiography and intravascular ultrasound diagnostic capabilities
+- Has a Critical Care Unit
+- Located in Nagpur, Maharashtra
+- Cardiology
+- Gynecology
+- Cardiology and intensivist staff on site
+- Open 24 hours / 24/7 emergency care
+- 24/7 emergency cardiac care
+- Intervention Cardiology
+- Intervention Neurology
+- Provides cardiovascular and gynecology care in Nagpur, Maharashtra
+
+EQUIPMENT:
+- Echo machine for cardiac imaging
+- HD IVUS imaging system
+- AZURION cath lab for interventional cardiology",,,,,,,,,,,

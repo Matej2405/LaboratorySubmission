@@ -1,0 +1,101 @@
+[
+  {
+    "facility_id": "vf_002145",
+    "name": "Chiguru Child Care Centre",
+    "city": "Hassan",
+    "state": "Karnataka",
+    "district": "Hassan",
+    "trust_score": 45.0,
+    "claimed_capabilities": [
+      "icu",
+      "nicu",
+      "neonatal_care"
+    ],
+    "flag": "icu_no_ventilator: ventilator",
+    "flag_root": "icu_no_ventilator",
+    "headline": "ICU claimed but ventilator not documented",
+    "missing_requirement": "ventilator",
+    "cited_sentence": "Offers Paediatric Intensive Care",
+    "capability": "icu"
+  },
+  {
+    "facility_id": "vf_000855",
+    "name": "Aphila Hospitals",
+    "city": "Vijayawada",
+    "state": "andhra Pradesh",
+    "district": "Krishna",
+    "trust_score": 50.0,
+    "claimed_capabilities": [
+      "icu",
+      "dialysis",
+      "obgyn_delivery"
+    ],
+    "flag": "icu_no_ventilator: ventilator",
+    "flag_root": "icu_no_ventilator",
+    "headline": "ICU claimed but ventilator not documented",
+    "missing_requirement": "ventilator",
+    "cited_sentence": "Aphila Hospitals provides you the best range of out patient service, intensive care unit, general instructions & dialysis center24x7 with effective & timely delivery.",
+    "capability": "icu"
+  },
+  {
+    "facility_id": "vf_000962",
+    "name": "Arihant Corporate Hospital and Ishant Diagnostics",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "district": "Bhopal",
+    "trust_score": 50.0,
+    "claimed_capabilities": [
+      "icu",
+      "general_surgery",
+      "lab_diagnostics"
+    ],
+    "flag": "icu_no_ventilator: ventilator",
+    "flag_root": "icu_no_ventilator",
+    "headline": "ICU claimed but ventilator not documented",
+    "missing_requirement": "ventilator",
+    "cited_sentence": "Hi-tech Corporate hospital, All Advanve Facilities like Surgical, Intensive care, Emergency, and Diagnostic Facilities Under one Roof.",
+    "capability": "icu"
+  },
+  {
+    "facility_id": "vf_000090",
+    "name": "Aaditya Poly Clinic",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "district": "Hyderabad",
+    "trust_score": 45.0,
+    "claimed_capabilities": [
+      "general_surgery",
+      "cardiac_care",
+      "obgyn_delivery",
+      "pharmacy",
+      "ophthalmology",
+      "physiotherapy"
+    ],
+    "flag": "surgery_no_anesthesiologist: anesthesiologist",
+    "flag_root": "surgery_no_anesthesiologist",
+    "headline": "Surgery claimed but no anesthesiologist on staff",
+    "missing_requirement": "anesthesiologist",
+    "cited_sentence": "Performs laparoscopic surgery",
+    "capability": "general_surgery"
+  },
+  {
+    "facility_id": "vf_000797",
+    "name": "Anuradha Maternity Centre",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "district": "Chennai",
+    "trust_score": 45.0,
+    "claimed_capabilities": [
+      "oncology",
+      "general_surgery",
+      "obgyn_delivery",
+      "physiotherapy"
+    ],
+    "flag": "oncology_no_oncologist: oncologist",
+    "flag_root": "oncology_no_oncologist",
+    "headline": "Oncology claimed but no oncologist documented",
+    "missing_requirement": "oncologist",
+    "cited_sentence": "Runs routine cervical cancer awareness programmes",
+    "capability": "oncology"
+  }
+]

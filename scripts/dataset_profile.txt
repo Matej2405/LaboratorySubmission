@@ -1,0 +1,176 @@
+﻿python : D:\Software engineering\Projekti\Hackathons\2026\Hacknation\scripts\inspect_dataset.py:36: Pandas4Warning: For
+ backward compatibility, 'str' dtypes are included by select_dtypes when 'object' dtype is specified. This behavior is 
+deprecated and will be removed in a future version. Explicitly pass 'str' to `include` to select them, or to `exclude` 
+to remove them and silence this warning.
+At C:\Users\Matej\AppData\Local\Temp\ps-script-5c7f85f5-893e-42e9-b5bc-5007fba58998.ps1:91 char:1
++ python scripts/inspect_dataset.py 2>&1 | Out-File -FilePath scripts/d ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (D:\Software eng...e this warning.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+See https://pandas.pydata.org/docs/user_guide/migration-3-strings.html#string-migration-select-dtypes for details on ho
+w to write code that works with pandas 2 and 3.
+  str_cols = df.select_dtypes(include="object").columns
+Reading D:\Software engineering\Projekti\Hackathons\2026\Hacknation\data\raw\VF_Hackathon_Dataset_India_Large.xlsx
+Sheets: ['VF_Hackathon_Dataset_India_Larg']
+
+=== Sheet: VF_Hackathon_Dataset_India_Larg  shape=(10000, 41) ===
+Columns:
+  - 'name'                                    dtype=str         non_null= 10000  sample='1000 Smiles Dental Clinic'
+  - 'phone_numbers'                           dtype=str         non_null=  9998  sample='["+919392803399"]'
+  - 'officialPhone'                           dtype=float64     non_null=  8646  sample='919392803399.0'
+  - 'email'                                   dtype=str         non_null=  6012  sample='1000smilesdentalclinic@gmail.com'
+  - 'websites'                                dtype=str         non_null= 10000  sample='["https://www.facebook.com/249768584883702","https://www.justdial.com/Hyderabad/1000-Smiles-Dental-Clinic-Opposie-Hdfc-B...'
+  - 'officialWebsite'                         dtype=str         non_null=  4054  sample='108eye.com'
+  - 'yearEstablished'                         dtype=float64     non_null=   789  sample='2006.0'
+  - 'facebookLink'                            dtype=str         non_null=  9786  sample='https://www.facebook.com/249768584883702'
+  - 'twitterLink'                             dtype=str         non_null=    18  sample='https://twitter.com/ghousekazi'
+  - 'linkedinLink'                            dtype=str         non_null=    19  sample='https://www.linkedin.com/company/aashirwad-healthcare-center/'
+  - 'instagramLink'                           dtype=str         non_null=    85  sample='https://www.instagram.com/3dpluscbct/'
+  - 'address_line1'                           dtype=object      non_null= 10000  sample='Plot No 2-2-1075/15/1/5, Shivam Road'
+  - 'address_line2'                           dtype=object      non_null=  6566  sample='Opposite Hdfc Bank, Tilak Nagar'
+  - 'address_line3'                           dtype=object      non_null=  2664  sample='Near Old Mla Quarters, Hyderguda'
+  - 'address_city'                            dtype=str         non_null= 10000  sample='Hyderabad'
+  - 'address_stateOrRegion'                   dtype=str         non_null= 10000  sample='Telangana'
+  - 'address_zipOrPostcode'                   dtype=object      non_null=  9900  sample='500013'
+  - 'address_country'                         dtype=str         non_null= 10000  sample='India'
+  - 'address_countryCode'                     dtype=str         non_null= 10000  sample='IN'
+  - 'facilityTypeId'                          dtype=str         non_null= 10000  sample='clinic'
+  - 'operatorTypeId'                          dtype=str         non_null=  5638  sample='private'
+  - 'affiliationTypeIds'                      dtype=str         non_null=   109  sample='["government"]'
+  - 'description'                             dtype=str         non_null=  9060  sample='Dental clinic offering RCT (Root Canal) and Laser Dentistry in Amberpet, Hyderabad.'
+  - 'numberDoctors'                           dtype=float64     non_null=   635  sample='1.0'
+  - 'capacity'                                dtype=float64     non_null=    97  sample='10.0'
+  - 'specialties'                             dtype=str         non_null= 10000  sample='["familyMedicine","periodontics","endodontics","dentistry","aestheticDentistry"]'
+  - 'procedure'                               dtype=str         non_null=  7093  sample='["Performs root canal therapy (RCT)","Provides laser dentistry services"]'
+  - 'equipment'                               dtype=str         non_null=  6630  sample='[]'
+  - 'capability'                              dtype=str         non_null=  7557  sample='["Has been in operation for 10 years","Dental clinic"]'
+  - 'recency_of_page_update'                  dtype=datetime64[us]  non_null=   530  sample='2025-12-20'
+  - 'distinct_social_media_presence_count'    dtype=float64     non_null=  6628  sample='1.0'
+  - 'affiliated_staff_presence'               dtype=float64     non_null=  6476  sample='0.0'
+  - 'custom_logo_presence'                    dtype=float64     non_null=  4564  sample='0.0'
+  - 'number_of_facts_about_the_organization'  dtype=float64     non_null=   343  sample='11.0'
+  - 'post_metrics_most_recent_social_media_post_date'  dtype=datetime64[us]  non_null=  2201  sample='2024-01-21'
+  - 'post_metrics_post_count'                 dtype=float64     non_null=   933  sample='1.0'
+  - 'engagement_metrics_n_followers'          dtype=float64     non_null=  4474  sample='23.0'
+  - 'engagement_metrics_n_likes'              dtype=float64     non_null=  3503  sample='10.0'
+  - 'engagement_metrics_n_engagements'        dtype=float64     non_null=  1332  sample='16.0'
+  - 'latitude'                                dtype=float64     non_null= 10000  sample='17.3977394104003'
+  - 'longitude'                               dtype=float64     non_null= 10000  sample='78.482681274414'
+
+String-column length stats:
+                        min  median   mean     max
+name                    4.0    26.0   30.0   196.0
+phone_numbers           0.0    17.0   20.6    49.0
+email                   0.0    20.0   15.0    85.0
+websites               24.0   129.0  178.3  1550.0
+officialWebsite         0.0     0.0   11.3  1033.0
+facebookLink            0.0    40.0   39.3    80.0
+twitterLink             0.0     0.0    0.1    53.0
+linkedinLink            0.0     0.0    0.1    88.0
+instagramLink           0.0     0.0    0.4    92.0
+address_line1           1.0    23.0   28.7   165.0
+address_line2           0.0    12.0   16.1   139.0
+address_line3           0.0     0.0    5.4   191.0
+address_city            3.0     7.0    7.8    26.0
+address_stateOrRegion   2.0     9.0    9.4    40.0
+address_zipOrPostcode   0.0     6.0    5.9    10.0
+address_country         5.0     5.0    5.0     5.0
+address_countryCode     2.0     2.0    2.0     2.0
+facilityTypeId          6.0     6.0    6.7     8.0
+operatorTypeId          0.0     7.0    3.9     7.0
+affiliationTypeIds      0.0     0.0    0.2    64.0
+description             0.0    72.0  101.6  3185.0
+specialties            11.0    32.0   56.7   737.0
+procedure               0.0     2.0   99.3  5244.0
+equipment               0.0     2.0   20.3  1269.0
+capability              0.0    80.0  180.7  3559.0
+
+First 2 rows:
+  --- row 0 ---
+    name: '1000 Smiles Dental Clinic'
+    phone_numbers: '["+919392803399"]'
+    officialPhone: 919392803399.0
+    email: '1000smilesdentalclinic@gmail.com'
+    websites: '["https://www.facebook.com/249768584883702","https://www.justdial.com/Hyderabad/1000-Smiles-Dental-Clinic-Opposie-Hdfc-Bank-Amberpet/040PXX40-XX40-160227012741-N9P1_BZDET"]'
+    officialWebsite: nan
+    yearEstablished: nan
+    facebookLink: 'https://www.facebook.com/249768584883702'
+    twitterLink: nan
+    linkedinLink: nan
+    instagramLink: nan
+    address_line1: 'Plot No 2-2-1075/15/1/5, Shivam Road'
+    address_line2: 'Opposite Hdfc Bank, Tilak Nagar'
+    address_line3: 'Near Old Mla Quarters, Hyderguda'
+    address_city: 'Hyderabad'
+    address_stateOrRegion: 'Telangana'
+    address_zipOrPostcode: 500013
+    address_country: 'India'
+    address_countryCode: 'IN'
+    facilityTypeId: 'clinic'
+    operatorTypeId: nan
+    affiliationTypeIds: nan
+    description: 'Dental clinic offering RCT (Root Canal) and Laser Dentistry in Amberpet, Hyderabad.'
+    numberDoctors: nan
+    capacity: nan
+    specialties: '["familyMedicine","periodontics","endodontics","dentistry","aestheticDentistry"]'
+    procedure: '["Performs root canal therapy (RCT)","Provides laser dentistry services"]'
+    equipment: '[]'
+    capability: '["Has been in operation for 10 years","Dental clinic"]'
+    recency_of_page_update: NaT
+    distinct_social_media_presence_count: 1.0
+    affiliated_staff_presence: 0.0
+    custom_logo_presence: 0.0
+    number_of_facts_about_the_organization: nan
+    post_metrics_most_recent_social_media_post_date: NaT
+    post_metrics_post_count: nan
+    engagement_metrics_n_followers: 23.0
+    engagement_metrics_n_likes: 10.0
+    engagement_metrics_n_engagements: nan
+    latitude: 17.3977394104003
+    longitude: 78.482681274414
+  --- row 1 ---
+    name: '108 Eye And Heath Centre'
+    phone_numbers: '["+919015821616"]'
+    officialPhone: 919015821616.0
+    email: '108healthcentre@gmail.com'
+    websites: '["https://www.indiamart.com/108-eye-and-health-centre/","https://108-eye-health.localo.site/","108eye.com","https://www.justdial.com/Noida/108-Eye-And-Heath-Centre-Near-State-Bank-Of-India-D-Block-Sec...'
+    officialWebsite: '108eye.com'
+    yearEstablished: nan
+    facebookLink: 'https://www.facebook.com/252399348484757'
+    twitterLink: nan
+    linkedinLink: nan
+    instagramLink: nan
+    address_line1: 'House Number 108'
+    address_line2: 'Near State Bank Of India D Block Sector 50, E Block'
+    address_line3: nan
+    address_city: 'Noida'
+    address_stateOrRegion: 'Uttar Pradesh'
+    address_zipOrPostcode: 201307
+    address_country: 'India'
+    address_countryCode: 'IN'
+    facilityTypeId: 'clinic'
+    operatorTypeId: 'private'
+    affiliationTypeIds: nan
+    description: '108 Eye And Health Centre provides you the best range of treatments, treatment services, pharmaceutical injection, veterinary drugs & our services with effective & timely delivery.'
+    numberDoctors: 1.0
+    capacity: nan
+    specialties: '["pediatricsAndStrabismusOphthalmology","ophthalmology","refractiveSurgeryOphthalmology","familyMedicine","eyeTraumaAndEmergencyEyeCare","cataractAndAnteriorSegmentSurgery","uveitisOphthalmology","ret...'
+    procedure: '["Treats Squint","Glaucoma management","Offers Paediatric Ophthalmology","Performs cataract surgery","General eye check-up","Manages Uveitis","Cataract surgery","LASIK","IPCL","Pre-LASIK tests","Provi...'
+    equipment: '[]'
+    capability: '["Neuro Ophthalmology services offered","Outpatient ophthalmology clinic","Has 1 ophthalmologist/eye surgeon on staff","Dr. B K Varma is an ophthalmologist/eye surgeon with 17 years of experience","Re...'
+    recency_of_page_update: NaT
+    distinct_social_media_presence_count: 3.0
+    affiliated_staff_presence: 1.0
+    custom_logo_presence: 1.0
+    number_of_facts_about_the_organization: nan
+    post_metrics_most_recent_social_media_post_date: NaT
+    post_metrics_post_count: nan
+    engagement_metrics_n_followers: nan
+    engagement_metrics_n_likes: nan
+    engagement_metrics_n_engagements: nan
+    latitude: 28.57222366333
+    longitude: 77.3690338134765
+
+
+Wrote D:\Software engineering\Projekti\Hackathons\2026\Hacknation\scripts\dataset_profile.json
